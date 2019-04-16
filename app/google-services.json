@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "452769179046",
+    "firebase_url": "https://vfms-a09c6.firebaseio.com",
+    "project_id": "vfms-a09c6",
+    "storage_bucket": "vfms-a09c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:452769179046:android:633c1d52ec724e9c",
+        "android_client_info": {
+          "package_name": "com.example.transporttracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "452769179046-46nuupnar7j1ld7233cbu02tho85gf82.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.transporttracker",
+            "certificate_hash": "cf128c2939dfd93371486091dc660fd9dd6ec5c1"
+          }
+        },
+        {
+          "client_id": "452769179046-vftgckk0gld9k9re8bfts98da4eqqvfq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCj8imkN_hW0Afa8x6rFPefW3uBPUpyLI4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "452769179046-vftgckk0gld9k9re8bfts98da4eqqvfq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
